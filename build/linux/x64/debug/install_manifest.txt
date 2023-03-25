@@ -1,0 +1,17 @@
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/medicalappui
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/lib/icons/icon1.png
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/lib/icons/icon2.png
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/lib/icons/icon3.png
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/lib/images/doctor3.jpeg
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/lib/images/doctor2.jpeg
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/lib/images/download.jpeg
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ambar/Documents/SEM6/MI/medicalappui/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
